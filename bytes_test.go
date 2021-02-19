@@ -1,7 +1,7 @@
 package bytefmt_test
 
 import (
-	. "code.cloudfoundry.org/bytefmt"
+	. "github.com/vvatanabe/bytefmt"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

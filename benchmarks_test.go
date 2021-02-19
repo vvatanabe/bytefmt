@@ -3,7 +3,7 @@ package bytefmt_test
 import (
 	"testing"
 
-	. "code.cloudfoundry.org/bytefmt"
+	. "github.com/vvatanabe/bytefmt"
 )
 
 const (

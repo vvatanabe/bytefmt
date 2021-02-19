@@ -1,7 +1,7 @@
 bytefmt
 =======
 
-**Note**: This repository should be imported as `code.cloudfoundry.org/bytefmt`.
+**Note**: This repository should be imported as `github.com/vvatanabe/bytefmt`.
 
 Human-readable byte formatter.
 
